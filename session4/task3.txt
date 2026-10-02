@@ -1,0 +1,3 @@
+Product Owner – Manages the product requirements and decides what should be developed.
+Scrum Master – Helps the team follow Scrum and removes problems that block their work.
+Developers – Design, build, test, and deliver the product features.

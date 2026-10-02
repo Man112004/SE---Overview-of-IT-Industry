@@ -1,0 +1,2 @@
+A Fork creates your own copy of someone else's GitHub repository in your account.
+A Pull Request asks the original repository owner to review and merge your changes.

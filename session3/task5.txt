@@ -1,0 +1,1 @@
+DNS (Domain Name System) converts domain names into IP addresses. In www.google.com, the root is represented by ., the TLD (Top-Level Domain) is .com, the domain is google, and www is the subdomain. Thus, the hierarchy is Root → .com → google → www.

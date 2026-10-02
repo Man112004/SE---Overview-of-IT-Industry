@@ -1,0 +1,2 @@
+A developer creates and maintains software by writing code and implementing features.
+A tester checks the software to find bugs and verifies that it meets the required specifications.

@@ -1,0 +1,11 @@
+Product Companies:
+
+Microsoft – Develops products such as Windows and Microsoft Office.
+Google – Develops products such as Google Search and Gmail.
+Apple – Develops products such as iPhone and macOS.
+
+Service Companies:
+
+TCS – Provides software development and IT consulting services to clients.
+Infosys – Provides IT consulting, software development, and technology services.
+Wipro – Provides IT services and digital transformation solutions to businesses.

@@ -1,0 +1,2 @@
+A Sprint is a fixed period in which the Scrum team works to complete a set of tasks or product features.
+Typical duration: 2 weeks (usually 1–4 weeks).

@@ -1,0 +1,2 @@
+IPv4 uses a 32-bit address, such as 192.168.1.1, and provides about 4.3 billion addresses.
+IPv6 uses a 128-bit address, such as 2001:db8::1, and provides a much larger number of addresses.

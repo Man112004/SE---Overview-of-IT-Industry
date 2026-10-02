@@ -1,0 +1,5 @@
+Java – Used for Android apps and enterprise applications.
+Python – Used for AI, machine learning, and data analysis.
+JavaScript – Used to create interactive websites and web applications.
+C++ – Used for game development and high-performance software.
+SQL – Used to store, manage, and retrieve data from databases.

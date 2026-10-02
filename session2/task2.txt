@@ -1,0 +1,3 @@
+Client: A device or application that sends a request for a service or data.
+Server: A computer or system that receives requests, processes them, and sends a response.
+Real-life example: When you open YouTube on your phone, your phone is the client, and YouTube's computer system is the server that sends videos and other data to your phone.

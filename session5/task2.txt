@@ -1,0 +1,2 @@
+git fetch downloads the latest changes from the remote repository but does not merge them into your current branch.
+git pull downloads the latest changes and automatically merges them into your current branch.

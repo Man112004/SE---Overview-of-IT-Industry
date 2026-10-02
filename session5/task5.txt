@@ -1,0 +1,10 @@
+git checkout -b feature-test
+echo "Feature test" > feature.txt
+git add .
+git commit -m "Add feature test"
+
+git checkout main
+git merge feature-test
+
+
+These commands create the feature-test branch, make a commit on it, switch back to main, and merge the branch into main.

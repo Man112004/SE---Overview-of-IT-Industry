@@ -1,0 +1,1 @@
+A desktop app is installed and used on a computer or laptop. A web app runs in a web browser and usually does not need to be installed. A mobile app is designed for smartphones and tablets and can use features like the camera, GPS, and notifications.

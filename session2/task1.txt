@@ -1,0 +1,3 @@
+Presentation Layer – This is the user interface where users interact with the application.
+Business Logic Layer – It contains the rules and logic that process the user's requests.
+Data Layer – It stores, retrieves, and manages data in databases.

@@ -1,0 +1,7 @@
+git init
+echo "Hello GitHub" > sample.txt
+git add .
+git commit -m "Add sample file"
+git branch -M main
+git remote add origin https://github.com/USERNAME/REPOSITORY.git
+git push -u origin main

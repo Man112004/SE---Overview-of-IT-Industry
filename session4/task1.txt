@@ -1,0 +1,6 @@
+Planning – Decide the project goals, requirements, time, and resources.
+Requirement Analysis – Collect and understand what the customer needs.
+Design – Create the system structure, database, interface, and technical design.
+Development – Write the code and build the software.
+Testing – Check the software for errors and make sure it works correctly.
+Deployment & Maintenance – Release the software and fix or improve it when needed.

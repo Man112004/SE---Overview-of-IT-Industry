@@ -1,0 +1,3 @@
+MySQL – SQL database.
+PostgreSQL – SQL database.
+MongoDB – NoSQL database.

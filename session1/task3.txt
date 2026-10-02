@@ -1,0 +1,5 @@
+GitHub – Git Hub – A platform used to store, manage, and collaborate on source code.
+Slack – Searchable Log of All Conversation and Knowledge – A communication platform used by teams for messaging and collaboration.
+Jira – Jira is not an official acronym – A project management tool used to track tasks, bugs, and software development work.
+IDE – Integrated Development Environment – Software that provides tools for writing, running, and debugging programs.
+API – Application Programming Interface – Allows different software applications to communicate with each other.

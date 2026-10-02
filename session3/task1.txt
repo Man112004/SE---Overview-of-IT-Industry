@@ -1,0 +1,4 @@
+HTTP – HyperText Transfer Protocol: Used to transfer web pages and data between a browser and a web server.
+HTTPS – HyperText Transfer Protocol Secure: Used to securely transfer data between a browser and a web server using encryption.
+FTP – File Transfer Protocol: Used to upload and download files between computers over a network.
+SMTP – Simple Mail Transfer Protocol: Used to send emails from one mail server to another.

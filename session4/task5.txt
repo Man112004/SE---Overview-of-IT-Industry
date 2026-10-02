@@ -1,0 +1,4 @@
+To Do – Tasks that are ready to be started.
+In Progress – Tasks that the team is currently working on.
+Done – Tasks that have been completed.
+Backlog – A list of tasks or requirements that are planned for future work.

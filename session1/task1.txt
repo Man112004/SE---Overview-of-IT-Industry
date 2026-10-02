@@ -1,0 +1,5 @@
+Software Developer – Develops and maintains software applications and programs.
+Web Developer – Creates and maintains websites and web applications.
+Data Analyst – Analyzes data to find useful information and support business decisions.
+Software Tester – Tests software to find bugs and ensure it works correctly.
+Database Administrator (DBA) – Manages, secures, and maintains databases.
